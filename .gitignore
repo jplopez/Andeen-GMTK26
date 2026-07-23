@@ -5,6 +5,13 @@
 # Recommended: add any editor/OS/tool-specific ignore rules from the Global/ templates as needed.
 # See: https://github.com/github/gitignore/tree/main/Global
 #
+
+
+# Project-specific ignores
+/Assets/Universal Sound FX/
+/Assets/Voices - Essentials/
+/.idea/
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
