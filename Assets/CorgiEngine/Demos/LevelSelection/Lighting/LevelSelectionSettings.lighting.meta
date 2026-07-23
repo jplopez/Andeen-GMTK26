@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3313fb76765d774c880b0c7a75857a5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 9.4
+  assetPath: Assets/CorgiEngine/Demos/LevelSelection/Lighting/LevelSelectionSettings.lighting
+  uploadId: 846010

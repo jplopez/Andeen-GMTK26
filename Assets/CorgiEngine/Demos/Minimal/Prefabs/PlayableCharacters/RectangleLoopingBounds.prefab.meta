@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25274c64039954644b79d890ec56090d
+timeCreated: 1469092248
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 9.4
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Prefabs/PlayableCharacters/RectangleLoopingBounds.prefab
+  uploadId: 846010

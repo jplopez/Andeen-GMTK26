@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 55c12c0ec7006444aaec17e31510e884
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 9.4
+  assetPath: Assets/Feel/MMTools/Core/MMHelpers/MMAnimationCurves.cs
+  uploadId: 846010

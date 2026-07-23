@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df35216a1bcec0b42bc82559f7cf9562
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 9.4
+  assetPath: Assets/CorgiEngine/Demos/Minimal/MinimalLoopingBounds.unity
+  uploadId: 846010
